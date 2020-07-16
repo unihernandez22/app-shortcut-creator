@@ -5,7 +5,7 @@ author        = "Unai Hernández"
 description   = "An awesome gtk-based app shortcut creator"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["app_shortcut_creator"]
+bin           = @["app-shortcut-creator"]
 
 
 
